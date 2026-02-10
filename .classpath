@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="apna_college/linkedlist"/>
+	<classpathentry kind="src" path="apna_college/arrayList"/>
+	<classpathentry kind="src" path="apna_college/recurrsion"/>
+	<classpathentry kind="src" path="apna_college/divide-and-conquare"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry kind="src" path="cse220/Lab_1_2D_Matrix_[JAVA]"/>
+	<classpathentry kind="src" path="neetcode"/>
+	<classpathentry kind="output" path="apna_college/bin"/>
+</classpath>

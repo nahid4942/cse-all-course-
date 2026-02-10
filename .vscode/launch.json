@@ -1,0 +1,54 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "cse-all-course"
+        },
+        {
+            "type": "java",
+            "name": "AssgnTask1",
+            "request": "launch",
+            "mainClass": "AssgnTask1",
+            "projectName": "cse-all-course"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "cse-all-course"
+        },
+        {
+            "type": "java",
+            "name": "LabTask1",
+            "request": "launch",
+            "mainClass": "LabTask1",
+            "projectName": "cse-all-course"
+        },
+        {
+            "type": "java",
+            "name": "singlelinkedlist",
+            "request": "launch",
+            "mainClass": "singlelinkedlist",
+            "projectName": "cse-all-course"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch singlelinkedlist",
+            "request": "launch",
+            "mainClass": "apna_college.linkedlist.singlelinkedlist",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

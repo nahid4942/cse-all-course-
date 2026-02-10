@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch singlelinkedlist",
+            "request": "launch",
+            "mainClass": "apna_college.linkedlist.singlelinkedlist",
+            "projectName": "cse-all-course-",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
