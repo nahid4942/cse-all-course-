@@ -1,9 +1,8 @@
-package neetcode;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-class Solution1 {
+public class Solution1 {
     public int[] plusOne(int[] digits) {
 
         int temp[] = new int[(digits.length)];
@@ -184,6 +183,18 @@ class Solution1 {
             return head.next;
         }
 
+        public int[][] construct2DArray(int[] original, int m, int n) {
+
+            int arr[][] = new int[m][n];
+            for (int i = 0; i <= m; i++) {
+                for (int j; j < n; j++)
+                    arr[i][j] = original[i];
+            }
+
+            printArray(arr);
+            return arr;
+        }
+
         public static void main(String[] args) {
 
             Solution1 n = new Solution1();
@@ -193,9 +204,13 @@ class Solution1 {
             // n.printArray(n.getConcatenation(arr));
             // n.printArray(n.merge(arr1 ,3,arr2,0));
             int arr[] = { 4, 1, 2, 1, 2 };
+            n.construct2DArray(arr, 2, 2);
 
-            System.out.println(n.singleNumber(arr));
+            // test
+            Solution1 s = new Solution1();
+            int[] test = { 1, 2, 3 };
+            int[] result = s.plusOne(test);
+            // print result
         }
-
     }
 }

@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.collectins;
+import java.util.*;
 
 public class singlelinkedlist {
     public static class Node {
