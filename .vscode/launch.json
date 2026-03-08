@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WRMTester",
+            "request": "launch",
+            "mainClass": "WRMTester",
+            "projectName": "cse-all-course"
+        },
+        {
+            "type": "java",
             "name": "linkedlist",
             "request": "launch",
             "mainClass": "linkedlist",

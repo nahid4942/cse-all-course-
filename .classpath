@@ -7,5 +7,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
 	<classpathentry kind="src" path="cse220/Lab_1_2D_Matrix_[JAVA]"/>
 	<classpathentry kind="src" path="neetcode"/>
+	<classpathentry kind="src" path="cse220/lab2/Lab_3_Doubly_LinkedList_[JAVA]/Lab Task"/>
 	<classpathentry kind="output" path="apna_college/bin"/>
 </classpath>
